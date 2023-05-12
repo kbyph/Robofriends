@@ -1,4 +1,4 @@
-# Robofriends - Front-End React App
+# Robofriends - Frontend React App
 
 ## Overview of Project
 Create-react-app project that uses React Redux to manage it's states, fetch APIs and allows the user search the fetched results.
