@@ -1,11 +1,11 @@
 # Robofriends - Frontend React App
 
 ## Overview of Project
-Create-react-app project that uses React Redux to manage it's states, fetch APIs and allows the user search the fetched results.
+Interactive React project that allows you to search robots by their name and their contact cards will be displayed.
 
 ## Resources
   - React.js
-  - React Hooks
+  - Hooks
   - Redux
   - Tachyons
   - Robohash
